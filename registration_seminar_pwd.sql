@@ -51,11 +51,6 @@ CREATE TABLE `user_registration` (
 --
 -- Dumping data for table `user_registration`
 --
-
-INSERT INTO `user_registration` (`id`, `nama`, `email`, `institusi`, `negara`, `alamat`) VALUES
-(456, 'Umar', 'oemarhatta123@gmail.com', 'ITB', 'Indonesia', 'Sleman'),
-(123456, 'Umar', '2200018437@webmail.uad.ac.id', 'UAD', 'Indonesia', 'Kediri');
-
 -- --------------------------------------------------------
 
 --
